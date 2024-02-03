@@ -1,0 +1,14 @@
+[
+{
+  "firstName": "Vasya",
+  "surname": "Pupkin",
+  "age": 62,
+  "hobby": ["slouching", "embroidery"]
+},
+{
+  "firstName": "John",
+  "surname": "Doe-Doe",
+  "age": 15,
+  "hobby": ["playstation", "eating", "politics"]
+}
+]
